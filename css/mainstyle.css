@@ -17,7 +17,7 @@ a.hove:hover {
 #footerLinks {
   background-color: gray;
   border: solid;
-  padding: 10px;
+  padding: 7px;
   margin-top: 460px;
   text-align: center;
 
@@ -27,5 +27,5 @@ a.foot1:hover{
   background-color: black;
   color: white;
   text-decoration: none;
-  padding: 5px;
+  padding: 10px;
 }
