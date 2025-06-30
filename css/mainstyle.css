@@ -23,7 +23,7 @@ a.hove:hover {
 
 }
 
-#footerLink:hover{
+a.foot1:hover{
   background-color: black;
   color: white;
   text-decoration: none;
