@@ -1,3 +1,14 @@
-body {
-  background-color: lightblue;
+#full-width {
+  border-style: solid;
+  background-color: gray;
+  padding: 10px;
+  text-align: center;
+  font-size: 25px
+}
+
+a.hove:hover {
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  padding: 5px;
 }
