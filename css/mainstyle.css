@@ -15,8 +15,10 @@ a.hove:hover {
 
 
 #foot1 {
+  background-color: gray;
   border: solid;
   padding: 10px;
   margin-top: 460px;
+  text-align: center;
 
 }
